@@ -1,5 +1,7 @@
 #pragma once
 
+// Constants.h
+
 #define ERASER_RADIUS 32
 
 #define WINDOW_WIDTH 1920
