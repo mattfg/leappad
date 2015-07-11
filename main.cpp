@@ -3,7 +3,7 @@
 		cimg library (http://cimg.sourceforge.net)
 		Leap Motion SDK (http://developer.leapmotion.com)
 */
-
+// Main.cpp
 #include "include/Leap.h"
 #include "include/CImg.h"
 #include "PadListener.h"
