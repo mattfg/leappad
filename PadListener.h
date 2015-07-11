@@ -1,9 +1,9 @@
 #pragma once
 
+// PadListener.h
 #include "include/Leap.h"
 #include "DrawMode.h"
 #include "PadArtist.h"
-//#include <windows.h>
 #include <map>
 
 /* Thanks to Leap Motion for providing a sample for a Listener */
