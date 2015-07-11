@@ -1,5 +1,6 @@
 #pragma once
 
+// PadArtist.h
 #include "include/CImg.h"
 #include "DrawMode.h"
 #include "constants.h"
